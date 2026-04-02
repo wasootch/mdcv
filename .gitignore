@@ -1,0 +1,9 @@
+config.json
+**/node_modules
+**/package.json
+**/package-lock.json
+
+**/output
+**/input/resume.md
+
+
