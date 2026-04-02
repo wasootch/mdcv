@@ -1,0 +1,5 @@
+{
+  "inputFile": "input/resume.md",
+  "outputFile": "output/Your-Name-Resume.pdf",
+  "htmlTitle": "Your Name | Your Title"
+}
